@@ -4,7 +4,6 @@
   <artifactId>cucumber-example-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
-  
   <dependencies>
 		<dependency>
 			<groupId>info.cukes</groupId>
