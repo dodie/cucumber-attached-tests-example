@@ -4,6 +4,7 @@
   <artifactId>cucumber-example-parent</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <description>Parent project to declare common dependencies.</description>
   <dependencies>
 		<dependency>
 			<groupId>info.cukes</groupId>

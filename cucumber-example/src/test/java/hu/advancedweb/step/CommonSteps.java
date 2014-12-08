@@ -20,4 +20,5 @@ public class CommonSteps {
 		int result = calculator.getResult();
 		assertThat(result, equalTo(arg1));
 	}
+	
 }
