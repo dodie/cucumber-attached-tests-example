@@ -19,7 +19,7 @@ import java.util.Properties;
 public class Calculator {
 	
 	private static final String CONFIG_FILE_NAME = "config.properties";
-	private Map<String, Operation> operations = new HashMap<String, Operation>();
+	private Map<String, Operation> operations = new HashMap<>();
 	private int result = 0;
 	
 	public Calculator() {
